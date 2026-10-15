@@ -2,9 +2,7 @@
 </script>
 
 <template>
-  <h1>Welcome to Vue</h1>
+  <main>
+    <RouterView />
+  </main>
 </template>
-
-<style scoped>
-
-</style>
